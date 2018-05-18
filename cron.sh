@@ -3,4 +3,4 @@
 ### Script to execute stake watcher from cron
 ######
 
-./staker.py >> ~/out.log
+./staker/staker.py >> ~/out.log
