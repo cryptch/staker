@@ -16,7 +16,7 @@ Is required to add some coin information in config.py file:
 - UNLOCK_PASS: daemon unlock password
 - UNLOCK_ONLY_STAKE: daemon has stake only unlock feature?
 
-More COIND_* parameters, see Coind repository in https://gitlab.com/cryptch/coind
+More COIND_* parameters, see Coind repository in https://github.com/cryptch/coind
 
 ### Prerequisites
 - Python 3
@@ -37,5 +37,18 @@ Will execute every hour.
 
 PS: For cron use, need to write daemon full path using COIND_PATH config parameter, or use bash instead Ubuntu/Debian default dash 
 
-## License
+### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+### Donation
+#### Bitcoin
+﻿1Hp2hrMU3FUdCtTR9AdwEK7zhKarSENmRY
+
+#### Dash
+XcN1iszFQFKKwwrAM69uvx8BPu8cY3cWCf
+
+#### Solaris XLR
+SZMw57FKCxcSM8XKqqq8iL89J8xxgunLNq
+
+#### Vsync VSX
+﻿VDeD4nt5gDRfageB4K3HwGCJHNDyyu8U3R
